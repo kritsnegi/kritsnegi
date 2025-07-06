@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi 👋, I'm Kritika
 
-<!--
-**kritsnegi/kritsnegi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A Cybersecurity Enthusiast & Developer from India 🇮🇳
 
-Here are some ideas to get you started:
+## 🔭 Current Projects
+- Working on Facial Recognition Attendance System
+- Learning React & Tailwind CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤝 Let's Collaborate
+- DevSecOps, Ethical Hacking, Web Development Projects
+- Open Source Contributions
+
+## 📝 Blogs
+- [Blog Name](your-blog-link)
+
+## 📫 How to reach me:
+- Email: yourname@gmail.com
+- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourlink)
+
+## ⚡ Fun Fact
+- I love solving CTFs and reading tech thrillers 😄
