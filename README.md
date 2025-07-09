@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm Kritika Negi</h1>
+<h1 align="center">Hey, I'm Kritika Negi</h1>
 <h3 align="center">Cybersecurity Enthusiast | Think Like an Attacker | Build Like a Dev | Defend Like a Pro</h3>
 
 <p align="center">
