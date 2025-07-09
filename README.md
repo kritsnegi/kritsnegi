@@ -1,81 +1,94 @@
-<h1 align="center">Hi 👋, I'm Kritika</h1>
-<h3 align="center">Cybersecurity Enthusiast | Developer | DFIR Explorer from India 🇮🇳</h3>
+<h1 align="center">Hi 👋, I'm Kritika Negi</h1>
+<h3 align="center">Cybersecurity Enthusiast | Developer | DFIR Explorer | Final Year CSE Student</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kritika-sec&label=Profile%20views&color=0e75b6&style=flat" alt="kritika-sec" />
-</p>
-
-- 🔭 I’m currently working on:  
-  🚀 **LogIntel** – AI-powered log summarization & cleaning (React + Gemini + Firebase)  
-  🎯 **Facial Recognition Attendance System** – Python & OpenCV based
-
-- 🌱 I’m learning:  
-  ⚛️ React & Tailwind CSS  
-  🔍 SIEM Log Analysis, DFIR Mapping, Bug Bounty Tactics  
-  🔐 Preparing for CISCO Ethical Hacker certification
-
-- 👯 I’m looking to collaborate on:  
-  🧩 DevSecOps & Secure Web Development Projects  
-  🕵️‍♀️ Ethical Hacking & Open Source Security Tools
-
-- 📝 I write about:  
-  📄 CTF Writeups, Cybersecurity Case Studies & Forensics Breakdowns *(Coming Soon)*
-
-- 💬 Ask me about:  
-  🔎 Digital Forensics • Cybersecurity Careers • Threat Hunting • Log Analysis
-
-- 📫 How to reach me:  
-  ✉️ **kritikanegi.cse@gmail.com**  
-  💼 [LinkedIn](https://linkedin.com/in/yourlink)  
-  💻 [GitHub](https://github.com/yourusername)
-
-- ⚡ Fun fact:  
-  I unwind with CTFs, digital mysteries, and tech thrillers 😄
-
----
-
-### 🛠️ Languages & Tools
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="wireshark" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/303600/kali-linux.svg" alt="kali" width="40" height="40"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Exploring+Cybersecurity+with+Curiosity!;DFIR%2C+Ethical+Hacking%2C+DevSecOps+%F0%9F%94%91;React%2C+Tailwind%2C+Security+Tools+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 🚀 About Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="kritika's GitHub stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Langs" />
-</p>
+🎓 Final-year B.Tech student at **Ramrao Adik Institute of Technology** (Cybersecurity specialization)  
+🔍 Passionate about **Digital Forensics**, **Ethical Hacking**, and building tools that enhance **incident response**  
+💡 Firm believer in learning by doing — from **forensics-based AI tools** to **packet analyzers**  
+🛡️ Currently exploring **SIEM log analysis**, **secure web dev**, and **attack vector mapping**
 
 ---
 
-### ✍️ Upcoming Blog
+### 🧠 What I'm Working On
 
-Stay tuned for writeups on real-world forensic cases, blue teaming, and tools walkthroughs.  
+- 🧠 **LogIntel**: AI-powered tool to clean and summarize security logs using **Gemini + Firebase + React**
+- 🕵️‍♀️ **Facial Recognition Attendance System** using Python & OpenCV
+- 🎯 Preparing for **CISCO Certified Ethical Hacker** & completing **Bug Bounty Bootcamp**
 
 ---
 
-### 🌐 Connect With Me
+### 🧰 Skills & Tools
 
-<p align="left">
-  <a href="https://linkedin.com/in/yourlink" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" /></a>
-  <a href="mailto:kritikanegi.cse@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="email" height="30" width="30" /></a>
-</p>
+**Languages**: Python, Bash, SQL  
+**Security Tools**: Nmap, Wireshark, Burp Suite, Metasploit, Nessus, ZAP  
+**Domains**: Digital Forensics, Web App Security, VA/PT, Threat Detection, OSINT  
+**Frameworks**: OWASP Top 10, MITRE ATT&CK, ISO 27001, NIST, PTES  
+**OS**: Kali Linux, Windows, Ubuntu  
+**Frontend**: React, Tailwind CSS (Learning)  
+**Soft Skills**: Leadership, Public Speaking, Team Collaboration
+
+---
+
+### 🌟 Featured Projects
+
+🧪 **TamperTracer**  
+*A forensic tool to detect tampering in images, videos, audio, and text using deep learning & ELA*  
+`Python • Streamlit • OpenCV • Librosa • PyTorch • OCR • CASIA Dataset`
+
+🧩 **Security Utilities**  
+Building cryptographic tools like **Caesar Cipher**, **Password Strength Checker**, and a **Keylogger** to dive into practical security logic
+
+---
+
+### 🧩 Certifications & Learning
+
+- 🔐 Cisco Certified Ethical Hacker *(Ongoing)*
+- 🧰 Bug Bounty & Web Security (ZSecurity, Udemy)
+- 🧠 Forage Simulations: **Deloitte**, **Mastercard**, **Datacom**
+- 🧠 NPTEL: **Demystifying Networking**
+- 🧪 CSI Linux: Certified Linux Investigator
+
+---
+
+### 🧑‍🏫 Leadership & Initiatives
+
+👩‍💼 **Cybersecurity Co-Head**, GDG RAIT  
+- Conducted hands-on workshops on **real-world attack simulation**, **Dark Web**, and **network threats**  
+- Interviewed and mentored GDG Cybersecurity facilitators  
+- Led events for 100+ students building security awareness
+
+---
+
+### 🗣️ Ask Me About
+
+- 🔍 Digital Forensics & Incident Response (DFIR)  
+- 🛠️ Tools for Threat Detection & Log Analysis  
+- 👩‍💻 Bug Bounties & Web Exploits  
+- 💬 Cyber Career Advice or College Involvement!
+
+---
+
+### 📫 Let's Connect
+
+- ✉️ Email: [kritikanegi.cse@gmail.com](mailto:kritikanegi.cse@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/kritika-negi-3a56982a6](https://www.linkedin.com/in/kritika-negi-3a56982a6)  
+- 🌐 Portfolio: *(Coming Soon)*
+
+---
+
+### ⚡ Fun Fact
+
+When I’m not breaking down logs or testing for vulnerabilities, I’m usually solving CTFs, reading a tech thriller, or dancing to unwind 💃
 
 ---
 
 <div align="center">
-  Built with 💻, ☕, and a whole lot of <strong>Cyber Curiosity</strong>.
+Built with 💻, ☕, and a whole lot of curiosity.
 </div>
