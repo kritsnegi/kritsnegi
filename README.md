@@ -5,7 +5,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Exploring+Cybersecurity+with+Curiosity!;DFIR%2C+Ethical+Hacking%2C+DevSecOps+%F0%9F%94%91;React%2C+Tailwind%2C+Security+Tools+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
----
+
+
+
 
 ### 🚀 About Me
 
@@ -14,7 +16,7 @@
 💡 Firm believer in learning by doing — from **forensics-based AI tools** to **packet analyzers**  
 🛡️ Currently exploring **SIEM log analysis**, **secure web dev**, and **attack vector mapping**
 
----
+
 
 ### 🧠 What I'm Working On
 
@@ -22,7 +24,7 @@
 - 🕵️‍♀️ **Facial Recognition Attendance System** using Python & OpenCV
 - 🎯 Preparing for **CISCO Certified Ethical Hacker** & completing **Bug Bounty Bootcamp**
 
----
+
 
 ### 🧰 Skills & Tools
 
@@ -34,7 +36,7 @@
 **Frontend**: React, Tailwind CSS (Learning)  
 **Soft Skills**: Leadership, Public Speaking, Team Collaboration
 
----
+
 
 ### 🌟 Featured Projects
 
@@ -45,7 +47,7 @@
 🧩 **Security Utilities**  
 Building cryptographic tools like **Caesar Cipher**, **Password Strength Checker**, and a **Keylogger** to dive into practical security logic
 
----
+
 
 ### 🧩 Certifications & Learning
 
@@ -55,7 +57,7 @@ Building cryptographic tools like **Caesar Cipher**, **Password Strength Checker
 - 🧠 NPTEL: **Demystifying Networking**
 - 🧪 CSI Linux: Certified Linux Investigator
 
----
+
 
 ### 🧑‍🏫 Leadership & Initiatives
 
@@ -64,7 +66,7 @@ Building cryptographic tools like **Caesar Cipher**, **Password Strength Checker
 - Interviewed and mentored GDG Cybersecurity facilitators  
 - Led events for 100+ students building security awareness
 
----
+
 
 ### 🗣️ Ask Me About
 
@@ -73,7 +75,7 @@ Building cryptographic tools like **Caesar Cipher**, **Password Strength Checker
 - 👩‍💻 Bug Bounties & Web Exploits  
 - 💬 Cyber Career Advice or College Involvement!
 
----
+
 
 ### 📫 Let's Connect
 
@@ -81,11 +83,11 @@ Building cryptographic tools like **Caesar Cipher**, **Password Strength Checker
 - 💼 LinkedIn: [linkedin.com/in/kritika-negi-3a56982a6](https://www.linkedin.com/in/kritika-negi-3a56982a6)  
 - 🌐 Portfolio: *(Coming Soon)*
 
----
+
 
 ### ⚡ Fun Fact
 
-When I’m not breaking down logs or testing for vulnerabilities, I’m usually solving CTFs, reading a tech thriller, or dancing to unwind 💃
+When I’m not breaking down logs or testing for vulnerabilities, I’m usually solving CTFs, reading a mystery thriller, or dancing to unwind 💃
 
 ---
 
